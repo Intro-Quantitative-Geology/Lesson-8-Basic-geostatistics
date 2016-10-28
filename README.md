@@ -4,16 +4,17 @@ This will be our first venture into applying our new Python skills to quantitati
 
 ## Lesson overview
 
-1. [Overview of useful modules for plotting in Python](Lesson/python-plotting.md#overview-of-useful-modules-for-plotting-in-python)
-2. [Anatomy of a plot](Lesson/python-plotting.md#anatomy-of-a-plot)
-3. [Basics of plotting with Matplotlib](Lesson/python-plotting.md#plotting-in-python-with-matplotlib)
-4. [Connecting Matplotlib with plotly](Lesson/using-plotly.md)
-5. [Exercise 7: Plotting with Python](https://classroom.github.com/assignment-invitations/54ad87560677b78169f1c18717bb312e)
-6. [Hints for Exercise 7](Lesson/hints.md)
+1. []()
+2. []()
+3. []()
+4. []()
+5. [Exercise 8: ]()
+6. [Hints for Exercise 8](Lesson/hints.md)
 
 ## Resources
 - Past lesson materials
-  - [Intro to Numpy](https://github.com/Python-for-geo-people/Lesson-6-Intro-to-NumPy/blob/master/Lesson/intro-to-numpy.md)
+  - [Plotting in Python](https://github.com/Python-for-geo-people/Lesson-7-Plotting)
+  - [Intro to NumPy](https://github.com/Python-for-geo-people/Lesson-6-Intro-to-NumPy/blob/master/Lesson/intro-to-numpy.md)
   - [Reading and Writing files](https://github.com/Python-for-geo-people/Lesson-5-Reading-Writing)
   - [Functions and modules](https://github.com/Python-for-geo-people/Functions-and-modules)
   - [Control flow](https://github.com/Python-for-geo-people/Control-flow)
