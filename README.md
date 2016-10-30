@@ -8,7 +8,7 @@ This will be our first venture into applying our new Python skills to quantitati
 2. []()
 3. []()
 4. []()
-5. [Exercise 8: ]()
+5. [Exercise 8: Coding and visualizing geostatistics]()
 6. [Hints for Exercise 8](Lesson/hints.md)
 
 ## Resources
