@@ -10,7 +10,7 @@ Many geological values can be described using the *normal distribution*, where t
 The example in Figure 5 is for the slope angles of cinder cones, which may be expected to be similar in many cases.
 This might relate to the angle of repose of the cinders that form the cone.
 
-![The normal distribution and standard deviations](../Images/Gaussian.png)<br/>
+![The normal distribution and standard deviations](../Images/Gaussian-sd.png)<br/>
 *Figure 6. The relationships between the normal distribution and standard deviation.
 Source: Figure 7.3 from [McKillup and Dyar, 2010](http://www.cambridge.org/fi/academic/subjects/earth-and-environmental-science/earth-science-general-interest/geostatistics-explained-introductory-guide-earth-scientists?format=HB&isbn=9780521763226)*.
 
