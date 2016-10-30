@@ -17,7 +17,21 @@ Thus, our goal is not to try to access a population, but rather to collect a *sa
 A ***representative sample*** is a sample that can be used to infer the characteristics of the population.
 In other words, the sampled material represents the main features (i.e., ages, fracture orientations, mineral assemblages, etc.) of the much larger population.
 Our goal as geoscientists is then to try to collect such a sample by collecting sampling units at *random*.
-The trouble is, even a random sample may not be representative (Figure 1).
+The trouble is, a random sample does not guarantee the sample is a representative sample (Figure 1).
 
 ![Random samples of a population](../Images/random-samples.png)<br/>
-*Figure 1. ...*
+*Figure 1. Two non-representative random samples from a population.
+Sample 1 (upper blue box) comprises mainly large fossils, while the fossils in sample 2 (lower blue box) are mainly small.
+Both samples were randomly selected from the population, but are not representative.
+Source: Figure 1.1 from [McKillup and Dyar, 2010](http://www.cambridge.org/fi/academic/subjects/earth-and-environmental-science/earth-science-general-interest/geostatistics-explained-introductory-guide-earth-scientists?format=HB&isbn=9780521763226)*.
+
+In Figure 1, the problem is that random samples collected from the same population may be very different from one another.
+In this case, the two random samples have very different sizes of the sampled fossils.
+
+![Ramdom samples from different populations](../Images/random-samples-diff-pops.png)<br/>
+*Figure 2. Two similar random samples collected from different populations.
+Here, sample 1 (upper blue box) and sample 2 (lower blue box) are similar, in spite of having been collected from different populations.
+Source: Figure 1.2 from [McKillup and Dyar, 2010](http://www.cambridge.org/fi/academic/subjects/earth-and-environmental-science/earth-science-general-interest/geostatistics-explained-introductory-guide-earth-scientists?format=HB&isbn=9780521763226)*.
+
+The problem in Figure 2 is that random samples taken from different populations may be quite similar.
+With the message from Figures 1 and 2, it should be clear that collecting a representative sample is difficult, particularly since the material available to sample for most geological cases precludes taking truly random samples.
