@@ -35,3 +35,7 @@ Source: Figure 1.2 from [McKillup and Dyar, 2010](http://www.cambridge.org/fi/ac
 
 The problem in Figure 2 is that random samples taken from different populations may be quite similar.
 With the message from Figures 1 and 2, it should be clear that collecting a representative sample is difficult, particularly since the material available to sample for most geological cases precludes taking truly random samples.
+
+## 
+**Next**: [Uncertainty](uncertainty.md)<br/>
+**Home**: [Lesson 8 main page](https://github.com/Intro-Quantitative-Geology/Lesson-8-Basic-geostatistics)<br/>
