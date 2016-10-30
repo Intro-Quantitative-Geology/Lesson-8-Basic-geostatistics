@@ -7,7 +7,7 @@ This will be our first venture into applying our new Python skills to quantitati
 1. [Basic statistical terms and concepts](Lesson/basic-terms.md)
 2. []()
 3. []()
-4. [Connecting to the cloud computers from D211](Lesson/Connecting-to-cloud.md)
+4. [Connecting to the cloud computers from D211](Lesson/connecting-to-cloud.md)
 5. [Exercise 8: Coding and visualizing geostatistics](https://classroom.github.com/assignment-invitations/dfe30092c1bc8f4030d081d77c33ea0a)
 6. [Hints for Exercise 8](Lesson/hints.md)
 
