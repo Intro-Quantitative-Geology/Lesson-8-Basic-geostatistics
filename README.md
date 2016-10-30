@@ -4,7 +4,7 @@ This will be our first venture into applying our new Python skills to quantitati
 
 ## Lesson overview
 
-1. []()
+1. [Basic statistical terms and concepts](Lesson/basic-terms.md)
 2. []()
 3. []()
 4. []()
