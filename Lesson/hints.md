@@ -60,17 +60,21 @@ For example, it is a good idea to create a list for the sample names and for the
 Consider the example below.
 
 ```python
+# Make some useful lists
 sampleNames = ["sample1", "sample2", "sample3"]
 colors = ["black", "blue", "red"]
 for i in range(len(sampleNames)):
+    # Some random data for plotting
     x = np.random.random(10)
     y = np.sin(x)
+    # More data for plotting
     x2 = np.random.random(10)
     y2 = np.cos(x2)
     e = np.random.random(10)
+    # Make plots
     plt.plot(x, y, 'o', color = colors[i], label = sampleNames[i])
     plt.errorbar(x2, y2, xerr=e, fmt='s', color=colors[i])
-
+# Display plot
 plt.show()
 ``` 
 As you can see, with a bit of planning you can use a `for` loop for your plotting in Problem 2, which is suggested if you're able to get it working :sunglasses:
