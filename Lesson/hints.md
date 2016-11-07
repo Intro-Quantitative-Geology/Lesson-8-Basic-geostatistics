@@ -73,4 +73,4 @@ for i in range(len(sampleNames)):
 
 plt.show()
 ``` 
-As you can see, with a bit of planning you can use a `for` loop for your plotting in Problem 2, which is suggested if you're able to get it working :simple_smile:
+As you can see, with a bit of planning you can use a `for` loop for your plotting in Problem 2, which is suggested if you're able to get it working :sunglasses:
