@@ -27,6 +27,6 @@ You can right-click on the icon and select **Lock to Launcher** to keep the icon
 The TightVNC client should be available in Windows on these computers, so you should be able to [connect the same way we have previously](https://github.com/Python-for-geo-people/Lesson-1-Course-Environment/blob/master/Background/connect-win-vnc.md).
 
 ## 
-**Next**: [Exercise 8: Coding and visualizing geostatistics](https://classroom.github.com/assignment-invitations/dfe30092c1bc8f4030d081d77c33ea0a)<br/>
+**Next**: [Exercise 8: Coding and visualizing geostatistics](https://github.com/Intro-Quantitative-Geology/Exercise-8)<br/>
 **Home**: [Lesson 8 main page](https://github.com/Intro-Quantitative-Geology/Lesson-8-Basic-geostatistics)<br/>
 **Previous**: [The normal distribution](normal-distribution.md)
