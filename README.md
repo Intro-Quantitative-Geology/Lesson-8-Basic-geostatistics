@@ -9,7 +9,7 @@ This will be our first venture into applying our new Python skills to quantitati
 3. [Reporting measurements](Lesson/reporting-measurements.md)
 4. [The normal distribution](Lesson/normal-distribution.md)
 5. [Connecting to the cloud computers from D211](Lesson/connecting-to-cloud.md)
-6. [Exercise 8: Coding and visualizing geostatistics](https://classroom.github.com/assignment-invitations/dfe30092c1bc8f4030d081d77c33ea0a)
+6. [Exercise 8: Coding and visualizing geostatistics](https://github.com/Intro-Quantitative-Geology/Exercise-8)
 7. [Hints for Exercise 8](Lesson/hints.md)
 
 ## Resources
